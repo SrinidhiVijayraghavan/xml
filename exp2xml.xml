@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="css2.css"?>
+<!DOCTYPE employee SYSTEM "dtd2.dtd">
+<employee>
+<heading>LIST OF STUDENTS</heading>
+<br />
+<br><text1>Srinidhi</text1><br/>
+<br><text2>Santhoshi</text2><br/>
+<text3> Nityasri</text3>
+<text4> Krishnan</text4>
+
+<heading>SELECTED CANDIDATES</heading>
+<text1>Srinidhi</text1>
+<text2>Nityasri</text2>
+</employee>
+
